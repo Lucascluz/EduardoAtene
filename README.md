@@ -25,4 +25,4 @@
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/eduardo-atene/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
-<img style="margin-top: 30px;" align="right" width="30px" src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif">
+<img style="margin-top: 30px;" align="right" width="70px" src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif">
