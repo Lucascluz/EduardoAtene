@@ -4,7 +4,7 @@
 #### Me chamo Eduardo, sou estudante de Sistemas de Informação e moro em Belo Horizonte!  
 
 - 💻 Desenvolvedor de software
-- :mortar_board: Tecnica em desenvolvimento de sistemas
+- :mortar_board: Sistemas de Informação - UFMS
 
 # <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px"> Tecnologias: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
