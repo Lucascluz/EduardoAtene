@@ -7,7 +7,7 @@
 - 💻 Desenvolvedora de software
 - :mortar_board: Sistemas de Informação
 
-<img style="margin-top: 10px;" align="right" width="400px" src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif">
+<img style="margin-top: 10px;" align="right" width="10px" src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif">
 
 # <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px"> Tecnologias: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
