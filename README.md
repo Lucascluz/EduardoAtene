@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/l2JhwdnrGvfnoXrzi/giphy.gif">
 
 # <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px"> Seja bem vindoo <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 #### Me chamo Eduardo, sou estudante de Sistemas de Informação e moro em Belo Horizonte!  
