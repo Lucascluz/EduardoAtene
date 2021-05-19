@@ -18,6 +18,8 @@
 
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoAtene/>	
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAtene)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoAtene&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
