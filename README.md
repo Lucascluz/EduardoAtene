@@ -4,7 +4,11 @@
 
 #### Me chamo Eduardo, sou estudante de Sistemas de Informação e moro em Belo Horizonte!  
 
+<<<<<<< HEAD
 - 💻 Desenvolvedor de software
+=======
+- 💻 Desenvolvedor de Sotfware
+>>>>>>> ef7634978e18da6a1fed11b2508af8916c4a2777
 - :mortar_board: Sistemas de Informação
 
 # <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px"> Tecnologias: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
