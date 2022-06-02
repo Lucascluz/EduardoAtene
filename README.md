@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://camo.githubusercontent.com/1d04ccbe1e520c0758bff2af297aa8b61962ac6a5a57bae0ce1f3d90593fceb5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c324a6877646e724776666e6f58727a692f67697068792e676966">
+<img style="margin-top: 40px;" align="right" width="300px" src="https://camo.githubusercontent.com/1d04ccbe1e520c0758bff2af297aa8b61962ac6a5a57bae0ce1f3d90593fceb5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c324a6877646e724776666e6f58727a692f67697068792e676966">
 
 # <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px"> Seja bem vindo <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
