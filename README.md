@@ -22,6 +22,6 @@
 </div><br>	
 
 
-<img style="margin-top: 30px;" align="right" width="70px" src="https://media3.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b761131f4c48cb657f5339a79ff755192f5d43757f53f&rid=giphy.gif&ct=g">
+<img style="margin-top: 30px;" align="right" width="20px" src="https://media3.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b761131f4c48cb657f5339a79ff755192f5d43757f53f&rid=giphy.gif&ct=g">
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/eduardo-atene/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
